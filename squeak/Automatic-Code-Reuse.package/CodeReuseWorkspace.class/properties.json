@@ -1,0 +1,14 @@
+{
+	"category" : "Automatic-Code-Reuse",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JE 7/30/2019 21:09",
+	"instvars" : [
+		"codeReuseBuilder" ],
+	"name" : "CodeReuseWorkspace",
+	"pools" : [
+		 ],
+	"super" : "PolyglotWorkspace",
+	"type" : "normal" }

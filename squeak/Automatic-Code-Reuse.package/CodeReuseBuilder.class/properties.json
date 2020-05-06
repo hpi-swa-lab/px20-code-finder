@@ -1,0 +1,28 @@
+{
+	"category" : "Automatic-Code-Reuse",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"CodeReuseProjectPath" ],
+	"commentStamp" : "JE 7/30/2019 21:32",
+	"instvars" : [
+		"languageSelection",
+		"query",
+		"codeBlockSelection",
+		"codeBlockList",
+		"parentObject",
+		"parentCallback",
+		"selectedCodeSnippet",
+		"pcStyler",
+		"addSnippetButtonLabel",
+		"methodFinder",
+		"methodFinderWindow",
+		"useMethodFinder",
+		"sortSymbol",
+		"queryStatus",
+		"sortMenu" ],
+	"name" : "CodeReuseBuilder",
+	"pools" : [
+		 ],
+	"super" : "Model",
+	"type" : "normal" }

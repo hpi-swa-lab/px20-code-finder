@@ -1,0 +1,15 @@
+{
+	"category" : "Automatic-Code-Reuse",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JE 7/30/2019 21:09",
+	"instvars" : [
+		"codeReuseBuilder",
+		"languageId" ],
+	"name" : "DynamicCheckboxModel",
+	"pools" : [
+		 ],
+	"super" : "Model",
+	"type" : "normal" }

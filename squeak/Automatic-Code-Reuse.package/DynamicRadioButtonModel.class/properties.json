@@ -1,0 +1,14 @@
+{
+	"category" : "Automatic-Code-Reuse",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"state" ],
+	"name" : "DynamicRadioButtonModel",
+	"pools" : [
+		 ],
+	"super" : "DynamicCheckboxModel",
+	"type" : "normal" }

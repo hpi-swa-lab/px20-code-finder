@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"newFor:with:" : "HT 11/19/2019 11:30" },
+	"instance" : {
+		"action" : "JE 7/30/2019 22:50",
+		"codeReuseBuilder" : "JE 7/30/2019 20:53",
+		"codeReuseBuilder:" : "JE 7/30/2019 20:53",
+		"label" : "JE 7/30/2019 22:49",
+		"languageId" : "JE 6/19/2019 11:32",
+		"languageId:" : "JE 6/19/2019 11:32",
+		"state" : "JE 7/30/2019 22:49" } }
