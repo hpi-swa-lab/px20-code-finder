@@ -1,4 +1,4 @@
-# Automatic Code Reuse
+# Polyglot Code Finder (Automatic Code Reuse)
 
 ## Install
 1. Install [GraalVM](https://github.com/graalvm/graalvm-ce-builds/releases/tag/vm-19.3.0) (tested with graalvm-ce-java8-19.3.0 64bit on OSX and Linux)
@@ -13,7 +13,7 @@
     ```
     - **Don't forget to execute the ruby post-install hook script.**
 3. Clone the following repositories:
-	  - https://github.com/hpi-swa-lab/pp19-5-automatic-code-reuse
+	  - https://github.com/hpi-swa-lab/px20-code-finder
 	  - https://github.com/hpi-swa-lab/pp19-6-code-editor
 4. Download [a recent Squeak version](https://squeak.org/downloads/) (tested with Squeak5.2-18229-64bit on OSX and Linux)
 5. Exchange the image of this Squeak with the [GraalSqueak image](https://www.hpi.uni-potsdam.de/hirschfeld/artefacts/graalsqueak/graalsqueak-0.8.4.zip)
